@@ -1,0 +1,47 @@
+.login{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    background-color: #F5E8E3;
+    border-radius: 15px;
+}
+
+.login h1{
+    text-align: center;
+}
+
+.login .error_message{
+    padding-top: 2.5%;
+    display: flex;
+}
+
+.login .forgot_pass{
+    padding-left: 5%;
+}
+
+.signin{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-right: 35%;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    background-color: #F5E8E3;
+    border-radius: 15px;
+}
+
+.signin h1{
+    text-align: center;
+}
+
+.signin .error_message{
+    padding-top: 2.5%;
+    display: flex;
+}

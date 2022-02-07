@@ -1,0 +1,59 @@
+.show {
+    text-align: center;
+    list-style: none;
+    background-color: #F5D6C0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 5%;
+}
+
+.show p{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.update{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #F5E8E3;
+    border-radius: 15px;
+}
+
+.update h1{
+    text-align: center;
+}
+
+.delete {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30%;
+    margin-left: 30%;
+    background-color: #F5E8E3;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+
+.delete h1{
+    text-align: center;
+}
+
+.button{
+    justify-content: center;
+    background-color: rgba(131, 89, 40, 0.774);
+    border-color: rgba(131, 89, 40, 0.774);
+}
+
+.button:hover, .button:checked, .button:active, .button:focus{
+    background-color: rgba(82, 55, 24, 0.822);
+    border-color: rgba(82, 55, 24, 0.822);
+    
+}
+.button:focus{
+    outline: none;
+}

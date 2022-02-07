@@ -1,0 +1,10 @@
+.imgMain{
+    display: flex;
+    justify-content: center;
+}
+.imgAccueilShopping{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    
+}
